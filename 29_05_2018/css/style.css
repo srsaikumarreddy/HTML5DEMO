@@ -1,0 +1,26 @@
+a{
+	color:red;size:15;text-decoration:none;
+}
+h1{
+	font-family:sans-serif;
+}
+
+p,h1{
+	text-decoration:underline;
+	color:blue;
+}
+div{
+	width:1000px;
+	height:1000px;
+	background-color:red;
+	margin-left:50px;
+	text-align:center;
+
+}
+
+#red{
+	color:green;
+}
+
+
+
